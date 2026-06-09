@@ -21,7 +21,7 @@ These URLs are referenced from:
 | `exitscore-logo.png` | Primary logo (full color) |
 | `theexitscore-blue.png` | Blue/navy variant |
 | `theexitscore-lined.png` | Outlined / line-art variant |
-| `theexitscore-white.png` | White-on-dark variant |
+| `theexitscorewhite.png` | White-on-dark variant |
 | `theexitscorelogo2.png` | Alternate design variant |
 | `theexitscorelogosimple.png` | Simplified version |
 
